@@ -1,0 +1,32 @@
+#uppercase {
+  display: none;
+}
+
+/*Light/Dark Project*/
+
+.light {
+  background-color: #444;
+  color: white;
+}
+
+.dark {
+  background-color: #eee;
+  color: black;
+}
+
+#button2 {
+  display: none;
+}
+
+
+/*Paragraph border/color*/
+
+
+
+.highlight2 {
+  background-color: magenta;
+  border: 2px solid black;
+}
+
+.highlight {
+}
