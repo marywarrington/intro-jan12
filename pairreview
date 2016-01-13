@@ -1,0 +1,11 @@
+Folder: Uppercase
+
+Whitespace:
+Some wasted empty lines
+
+HTML:
+The div#uppercase doesn't really need the p or span tags to change its effectiveness
+
+Folder: letter
+Error: The name field turns into [OBJECT HTMLSPANELEMENT] when you use the page in chrome.
+This is caused in the js file .toUpperCase needs to be .toUpperCase()
